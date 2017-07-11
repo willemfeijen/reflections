@@ -1,0 +1,13 @@
+Files vergelijken met Command prompt:
+1 Eerst directory opzoeken met ‘cd ..’ en ‘cd dirName’
+2 command FC filename1 filename2 geeft verschillen
+
+commands in command prompt
+git log: info over commits
+git diff, werkt zefde as FC
+
+repository: save of several files at once, collections of files
+'stat command' gives statistics about which files have changed in the commits
+'q' get out of git log
+'git config --global color.ui auto' for colours
+'git checkout' krijg bepaalde versie van checkouts
