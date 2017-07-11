@@ -1,0 +1,4 @@
+git status laat status van laatste commit zien
+git init: maak .git bestand aan. 
+.file is een onzichtbaar bestand
+ls -a laat bestanden in map zien, ook onzichtbare bestanden
