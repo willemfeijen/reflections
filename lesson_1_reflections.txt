@@ -13,3 +13,5 @@ repository: save of several files at once, collections of files
 'git checkout' krijg bepaalde versie van checkouts
 
 git add: add fie 2 stage area
+
+git clone 'github ur'

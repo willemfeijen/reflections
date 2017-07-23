@@ -2,3 +2,5 @@ When would you want to create a remote repository rather than keeping your work 
 
 git push: push branch frm local 2 github
 git pull: pull frm github 2 local
+
+if you want to clone 2 rep online, use fork instead of clone
