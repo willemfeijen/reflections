@@ -11,3 +11,5 @@ repository: save of several files at once, collections of files
 'q' get out of git log
 'git config --global color.ui auto' for colours
 'git checkout' krijg bepaalde versie van checkouts
+
+git add: add fie 2 stage area
