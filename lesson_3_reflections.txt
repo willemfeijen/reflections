@@ -1,1 +1,4 @@
-When wud yu want t create a remte rpsitry rahter than keeping a yur wrk ca?
+When would you want to create a remote repository rather than keeping your work local?
+
+git push: push branch frm local 2 github
+git pull: pull frm github 2 local
